@@ -1,8 +1,9 @@
-# FileFolderRenamer
-This application is used for copying project with different name. The following are executed during the copying operation
+## Project Copying Application
 
-•	Renaming all folders containing solution name (including subfolder).
+This application is used to copy a project with a different name. 
 
-•	Renaming all files containing solution name.
+### Operations Performed During Copying
 
-•	Replacing content of files containing solution name in the file content.
+- Renames all folders containing the solution name (including subfolders).  
+- Renames all files containing the solution name.  
+- Replaces the content of files that include the solution name in their content.
